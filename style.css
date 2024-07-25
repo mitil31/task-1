@@ -18,6 +18,10 @@
     list-style: none;
 }
 
+.container{
+    max-width: 1440px;
+    margin:0 auto ;
+}
 
 .item-id,
 .item-date {
